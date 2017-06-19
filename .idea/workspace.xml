@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prod/scripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -88,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l10n.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="l10n.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prod/scripts/modules/l10n.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="306">
+              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -166,8 +166,8 @@
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/prod/scripts/components/TodoActionsBar.js" />
         <option value="$PROJECT_DIR$/prod/index.html" />
-        <option value="$PROJECT_DIR$/prod/scripts/modules/l10n.js" />
         <option value="$PROJECT_DIR$/prod/scripts/main.js" />
+        <option value="$PROJECT_DIR$/prod/scripts/modules/l10n.js" />
       </list>
     </option>
   </component>
@@ -407,15 +407,15 @@
       <workItem from="1497628633448" duration="6495000" />
       <workItem from="1497688369542" duration="815000" />
       <workItem from="1497689699189" duration="17388000" />
-      <workItem from="1497781784831" duration="19743000" />
+      <workItem from="1497781784831" duration="20221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82996000" />
+    <option name="totallyTimeSpent" value="83474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2306003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -817,14 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/scripts/modules/l10n.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prod/scripts/components/TodoMain.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -837,6 +829,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod/scripts/modules/l10n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
           <folding />
         </state>
       </provider>

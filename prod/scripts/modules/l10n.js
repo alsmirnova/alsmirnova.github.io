@@ -16,7 +16,7 @@
     }
 
     function ROMANO_GERMANIC_ALGORITHM(number) {
-        return (Math.abs(number) === 1) || (Math.abs(number) === 0) ? 0 : 1;
+        return (Math.abs(number) === 1) ? 0 : 1;
     }
 
     var pluralAlgorithms = {
